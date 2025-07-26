@@ -21,7 +21,7 @@ You can copy the json from settings.json file and paste it into your VS Code set
 
 ## Contact
 
-Sumit Saha - [sumit@learnwithsumit.com](mailto:source.akash@gmail.com)
+KAMRUZZAMAN AKash - [source.akash@gmail.com.com](mailto:source.akash@gmail.com)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
