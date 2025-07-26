@@ -1,0 +1,28 @@
+All Extensions i use in my vs code
+
+Extensions>>>>>
+Tailwind CSS IntelliSense
+Auto close tag
+Auto rename tag
+Code Spell Checker
+CodeSnap
+Color Highlight
+ES7+ React/Redux/React-Native snippets
+ESLint
+htmltagwrap
+Live Server
+npm Intellisense
+Path Autocomplete
+Path Intellisense
+Prettier - Code formatter
+Quokka.js
+Thunder Client
+Turbo Console Log
+
+
+theme>>>>>
+Shades of Purple
+Learn with Sumit Theme
+Dracula Theme Official
+Material Icon Theme
+Andromeda

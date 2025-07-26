@@ -1,0 +1,135 @@
+{
+  // themes settings
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Learn with Sumit - Professional",
+  "workbench.colorCustomizations": {
+    "[Vira*]": {
+      "toolbar.activeBackground": "#80CBC426",
+      "activityBarBadge.background": "#80CBC4",
+      "activityBar.activeBorder": "#80CBC4",
+      "activityBarTop.activeBorder": "#80CBC4",
+      "list.inactiveSelectionIconForeground": "#80CBC4",
+      "list.activeSelectionForeground": "#80CBC4",
+      "list.inactiveSelectionForeground": "#80CBC4",
+      "list.highlightForeground": "#80CBC4",
+      "sash.hoverBorder": "#80CBC480",
+      "list.activeSelectionIconForeground": "#80CBC4",
+      "scrollbarSlider.activeBackground": "#80CBC480",
+      "editorSuggestWidget.highlightForeground": "#80CBC4",
+      "textLink.foreground": "#80CBC4",
+      "progressBar.background": "#80CBC4",
+      "pickerGroup.foreground": "#80CBC4",
+      "tab.activeBorder": "#80CBC4",
+      "notificationLink.foreground": "#80CBC4",
+      "editorWidget.resizeBorder": "#80CBC4",
+      "editorWidget.border": "#80CBC4",
+      "settings.modifiedItemIndicator": "#80CBC4",
+      "panelTitle.activeBorder": "#80CBC4",
+      "breadcrumb.activeSelectionForeground": "#80CBC4",
+      "menu.selectionForeground": "#80CBC4",
+      "menubar.selectionForeground": "#80CBC4",
+      "editor.findMatchBorder": "#80CBC4",
+      "selection.background": "#80CBC440",
+      "statusBarItem.remoteBackground": "#80CBC4",
+      "notebook.inactiveFocusedCellBorder": "#80CBC480",
+      "commandCenter.activeBorder": "#80CBC480"
+    }
+  },
+
+  // code formatter settings
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+
+  // settings
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.editor.empty.hint": "hidden",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "explorer.confirmDelete": false,
+  "editor.fontSize": 16,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.wordWrap": "on",
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.2,
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "none",
+  "editor.guides.indentation": false,
+  "files.autoSave": "afterDelay",
+
+  // lws
+  "workbench.colorCustomizations": {
+    "terminal.background": "#1D2021",
+    "terminal.foreground": "#A89984",
+    "terminalCursor.background": "#A89984",
+    "terminalCursor.foreground": "#A89984",
+    "terminal.ansiBlack": "#1D2021",
+    "terminal.ansiBlue": "#0D6678",
+    "terminal.ansiBrightBlack": "#665C54",
+    "terminal.ansiBrightBlue": "#0D6678",
+    "terminal.ansiBrightCyan": "#8BA59B",
+    "terminal.ansiBrightGreen": "#95C085",
+    "terminal.ansiBrightMagenta": "#8F4673",
+    "terminal.ansiBrightRed": "#FB543F",
+    "terminal.ansiBrightWhite": "#FDF4C1",
+    "terminal.ansiBrightYellow": "#FAC03B",
+    "terminal.ansiCyan": "#8BA59B",
+    "terminal.ansiGreen": "#95C085",
+    "terminal.ansiMagenta": "#8F4673",
+    "terminal.ansiRed": "#FB543F",
+    "terminal.ansiWhite": "#A89984",
+    "terminal.ansiYellow": "#FAC03B"
+  },
+
+  // editor
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Fira Code, Operator Mono",
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+
+  // cursor
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  // config related to code formatting
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  },
+
+  "[javascriptreact]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.tslint": "explicit",
+    "source.organizeImports": "explicit"
+  }
+}
