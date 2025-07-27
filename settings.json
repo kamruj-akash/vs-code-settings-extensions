@@ -1,7 +1,9 @@
 {
-  // themes settings
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Learn with Sumit - Professional",
+  // 🖼️ VS Code UI Theme & Icon Theme
+  "workbench.iconTheme": "material-icon-theme", // File icon theme set kore (Material icons)
+  "workbench.colorTheme": "Learn with Sumit - Professional", // Editor er color theme
+
+  // 🎨 Custom UI Color (Vira* theme er jonno specific)
   "workbench.colorCustomizations": {
     "[Vira*]": {
       "toolbar.activeBackground": "#80CBC426",
@@ -36,46 +38,44 @@
     }
   },
 
-  // code formatter settings
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true
-  },
-  "[css]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true
-  },
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true
-  },
-  "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true
+  // ⚙️ General Editor & Explorer Settings
+  "workbench.editor.empty.hint": "hidden", // Kono file na thakle placeholder na dekhanor jonno
+  "liveServer.settings.CustomBrowser": "chrome", // Live server e Chrome diye open hobe
+  "explorer.confirmDelete": false, // File delete korle konfirmation dibe na
+  "explorer.confirmDragAndDrop": false, // Drag & drop confirm dibe na
+  "files.autoSave": "afterDelay", // Automatically save hobe kichu delay pore
+  "editor.renderWhitespace": "none", // Whitespace show korbe na
+  "editor.guides.indentation": false, // Indentation guide line show korbe na
+
+  // 🔐 Security Settings
+  "security.workspace.trust.untrustedFiles": "open", // Untrusted file open korar permission set
+
+  // 🖋️ Editor Appearance
+  "editor.fontSize": 16, // Editor font size
+  "editor.fontFamily": "Fira Code, Operator Mono", // Custom font (ligature supported)
+  "editor.fontLigatures": true, // Font ligature on
+  "editor.wordWrap": "on", // Word wrap always on
+  "editor.minimap.enabled": false, // Minimap (side scrollbar preview) off
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic" // Comment gula italic style e thakbe
+        }
+      }
+    ]
   },
 
-  // settings
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "workbench.editor.empty.hint": "hidden",
-  "liveServer.settings.CustomBrowser": "chrome",
-  "explorer.confirmDelete": false,
-  "editor.fontSize": 16,
-  "security.workspace.trust.untrustedFiles": "open",
-  "editor.wordWrap": "on",
-  "explorer.confirmDragAndDrop": false,
-  "liveServer.settings.donotShowInfoMsg": true,
-  "terminal.integrated.fontSize": 14,
-  "terminal.integrated.lineHeight": 1.2,
-  "editor.formatOnSave": true,
-  "editor.renderWhitespace": "none",
-  "editor.guides.indentation": false,
-  "files.autoSave": "afterDelay",
+  // 🖱️ Cursor Customization
+  "editor.cursorSmoothCaretAnimation": "on", // Cursor smoothly move kore
+  "editor.cursorBlinking": "expand", // Cursor blink style expand
 
-  // lws
+  // 🧑‍💻 Terminal Theme Customization (Dark Gruvbox style)
   "workbench.colorCustomizations": {
-    "terminal.background": "#1D2021",
-    "terminal.foreground": "#A89984",
-    "terminalCursor.background": "#A89984",
+    "terminal.background": "#131a19",
+    "terminal.foreground": "#9ba9e3",
+    "terminalCursor.background": "#8BA59B",
     "terminalCursor.foreground": "#A89984",
     "terminal.ansiBlack": "#1D2021",
     "terminal.ansiBlue": "#0D6678",
@@ -95,26 +95,6 @@
     "terminal.ansiYellow": "#FAC03B"
   },
 
-  // editor
-  "editor.fontSize": 16,
-  "editor.fontFamily": "Fira Code, Operator Mono",
-  "editor.fontLigatures": true,
-  "editor.wordWrap": "on",
-  "editor.minimap.enabled": false,
-  "editor.tokenColorCustomizations": {
-    "textMateRules": [
-      {
-        "scope": "comment",
-        "settings": {
-          "fontStyle": "italic"
-        }
-      }
-    ]
-  },
-
-  // cursor
-  "editor.cursorSmoothCaretAnimation": "on",
-  "editor.cursorBlinking": "expand",
   // config related to code formatting
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
@@ -122,7 +102,6 @@
     "editor.formatOnSave": false,
     "editor.defaultFormatter": null
   },
-
   "[javascriptreact]": {
     "editor.formatOnSave": false,
     "editor.defaultFormatter": null
@@ -131,5 +110,16 @@
     "source.fixAll.eslint": "explicit",
     "source.fixAll.tslint": "explicit",
     "source.organizeImports": "explicit"
-  }
+  },
+  "eslint.alwaysShowStatus": true,
+
+  // 🔲 Terminal Font Size & Line Height
+  "terminal.integrated.fontSize": 14, // Terminal font size
+  "terminal.integrated.lineHeight": 1.2, // Terminal line height
+
+  // 🧭 Sidebar Config
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "[snippets]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  } // Secondary sidebar hide thakbe by default
 }
