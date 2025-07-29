@@ -6,12 +6,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  
+
   </a>
-
+    
   <h3 align="center">My Visual Studio Code Settings & Extensions</h3>
-
-<!-- Insructions -->
 
 ## Instructions
 
