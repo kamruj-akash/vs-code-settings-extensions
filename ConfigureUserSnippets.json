@@ -1,0 +1,34 @@
+Are you spending valuable time repeatedly typing document.getElementById or .addEventListener in your web development projects?
+
+As developers, we constantly write this kind of boilerplate code, which can be repetitive and slow down our workflow. I recently found an effective solution by leveraging a powerful feature in Visual Studio Code: Custom Code Snippets.
+
+This feature allows us to create our own shortcuts for frequently used code, making our development process faster and more efficient.
+
+Here’s how you can set it up:
+
+1️⃣ In VS Code, press Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (Mac).
+2️⃣ Type Configure User Snippets in the search bar and select the javascript.json file.
+3️⃣ Copy the code below and paste it into your javascript.json file, then save it:
+
+{
+  "Get Element By ID": {
+    "prefix": "gid",
+    "body": ["document.getElementById('$1')"],
+    "description": "Select an element by its ID"
+  },
+  "Get Elements By Class Name": {
+    "prefix": "gclass",
+    "body": ["document.getElementsByClassName('$1')"],
+    "description": "Select elements by class name"
+  },
+  "Add Event Listener": {
+    "prefix": "ael",
+    "body": [".addEventListener('$1', function() {", "\t$2", "});"],
+    "description": "Add an event listener to an element"
+  }
+}
+
+
+After setting this up, you can simply type gid and press Enter to get document.getElementById(''), with your cursor placed directly inside the quotes.
+
+Small automations like this are incredibly effective for boosting productivity. What are your favorite VS Code tricks? Feel free to share in the comments.
