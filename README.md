@@ -2,16 +2,16 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.youtube.com/@AkashINmotion">
+  <a target="_blank" href="https://www.youtube.com/@AkashINmotion">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://facebook.com/kamruj-akash">
+  <a target="_blank" href="https://facebook.com/kamruj.akash">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/kamruj-akash">
+  <a target="_blank" href="https://instagram.com/kamruj.akash">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/company/kamruj-akash">
+  <a target="_blank" href="https://linkedin.com/company/kamruj.akash">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -462,16 +462,16 @@ Contributions are welcome! Feel free to:
 [![Email](https://img.shields.io/badge/Email-source.akash%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:source.akash@gmail.com)
 
 <p align="center">
-  <a href="https://www.youtube.com/@AkashINmotion">
+  <a target="_blank"  href="https://www.youtube.com/@AkashINmotion">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://facebook.com/kamruj.akash">
+  <a target="_blank"  href="https://facebook.com/kamruj.akash">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a target='_blank' href="https://www.instagram.com/kamruj.akash">
+  <a target="_blank" href="https://www.instagram.com/kamruj.akash">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/kamruj-akash/">
+  <a target="_blank" href="https://www.linkedin.com/in/kamruj-akash/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
