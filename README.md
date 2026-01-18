@@ -11,7 +11,7 @@
   <a target="_blank" href="https://instagram.com/kamruj.akash">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a target="_blank" href="https://linkedin.com/company/kamruj.akash">
+  <a target="_blank" href="https://www.linkedin.com/in/kamruj-akash/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -53,6 +53,7 @@
 <td width="50%">
 
 ### 🎨 Beautiful Themes
+
 - Hand-picked color schemes
 - Icon themes for better visibility
 - Dark mode optimized
@@ -61,6 +62,7 @@
 <td width="50%">
 
 ### 🔧 Optimized Settings
+
 - Enhanced IntelliSense
 - Auto-formatting on save
 - Faster performance
@@ -71,6 +73,7 @@
 <td width="50%">
 
 ### 📦 Curated Extensions
+
 - Essential development tools
 - React & JavaScript focused
 - AI-powered coding assistance
@@ -79,6 +82,7 @@
 <td width="50%">
 
 ### 💻 Terminal Setup
+
 - Custom Zsh configuration
 - Enhanced command line
 - Developer-friendly aliases
@@ -97,13 +101,13 @@
 
 </div>
 
-| Extension | Description | Link |
-|-----------|-------------|------|
-| **🎨 Akashic Theme** | Beautiful and professional VS Code theme | [Install](https://marketplace.visualstudio.com/items?itemName=kamruj-akash.akashic) |
-| **🧹 Pro Code Cleaner** | Clean and optimize your code automatically | [Install](https://marketplace.visualstudio.com/items?itemName=kamruj-akash.pro-code-cleaner) |
-| **👨‍⚕️ Code Doctor** | Diagnose and fix code issues instantly | [Install](https://marketplace.visualstudio.com/items?itemName=kamruj-akash.code-doctor) |
-| **🤖 Smart Refactor AI** | AI-powered code refactoring tool | [Install](https://marketplace.visualstudio.com/items?itemName=kamruj-akash.smart-refactor-ai) |
-| **📦 Awesome Dev Pack** | Complete extension pack for developers | [Install](https://marketplace.visualstudio.com/items?itemName=kamruj-akash.awesome-dev-pack) |
+| Extension                | Description                                | Link                                                                                          |
+| ------------------------ | ------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| **🎨 Akashic Theme**     | Beautiful and professional VS Code theme   | [Install](https://marketplace.visualstudio.com/items?itemName=kamruj-akash.akashic)           |
+| **🧹 Pro Code Cleaner**  | Clean and optimize your code automatically | [Install](https://marketplace.visualstudio.com/items?itemName=kamruj-akash.pro-code-cleaner)  |
+| **👨‍⚕️ Code Doctor**       | Diagnose and fix code issues instantly     | [Install](https://marketplace.visualstudio.com/items?itemName=kamruj-akash.code-doctor)       |
+| **🤖 Smart Refactor AI** | AI-powered code refactoring tool           | [Install](https://marketplace.visualstudio.com/items?itemName=kamruj-akash.smart-refactor-ai) |
+| **📦 Awesome Dev Pack**  | Complete extension pack for developers     | [Install](https://marketplace.visualstudio.com/items?itemName=kamruj-akash.awesome-dev-pack)  |
 
 ---
 
@@ -113,14 +117,14 @@
 <summary><b>🎯 Essential Extensions</b></summary>
 <br/>
 
-| Extension | Description | Link |
-|-----------|-------------|------|
-| **Tailwind CSS IntelliSense** | Intelligent Tailwind CSS tooling | [Install](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) |
-| **Auto Close Tag** | Automatically add HTML/XML close tag | [Install](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) |
-| **Auto Rename Tag** | Auto rename paired HTML/XML tag | [Install](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) |
-| **Code Spell Checker** | Spelling checker for source code | [Install](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) |
-| **ESLint** | Integrates ESLint JavaScript | [Install](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) |
-| **Prettier** | Code formatter using prettier | [Install](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
+| Extension                     | Description                          | Link                                                                                                 |
+| ----------------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| **Tailwind CSS IntelliSense** | Intelligent Tailwind CSS tooling     | [Install](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)             |
+| **Auto Close Tag**            | Automatically add HTML/XML close tag | [Install](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)          |
+| **Auto Rename Tag**           | Auto rename paired HTML/XML tag      | [Install](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)         |
+| **Code Spell Checker**        | Spelling checker for source code     | [Install](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) |
+| **ESLint**                    | Integrates ESLint JavaScript         | [Install](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)                |
+| **Prettier**                  | Code formatter using prettier        | [Install](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)                |
 
 </details>
 
@@ -128,11 +132,11 @@
 <summary><b>⚛️ React & JavaScript</b></summary>
 <br/>
 
-| Extension | Description | Link |
-|-----------|-------------|------|
-| **ES7+ React Snippets** | Extensions for React, Redux | [Install](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) |
-| **JavaScript Snippets** | Code snippets for JavaScript ES6 | [Install](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) |
-| **Reactjs Snippets** | Code snippets for Reactjs | [Install](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets) |
+| Extension               | Description                      | Link                                                                                           |
+| ----------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **ES7+ React Snippets** | Extensions for React, Redux      | [Install](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) |
+| **JavaScript Snippets** | Code snippets for JavaScript ES6 | [Install](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)      |
+| **Reactjs Snippets**    | Code snippets for Reactjs        | [Install](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)           |
 
 </details>
 
@@ -140,13 +144,13 @@
 <summary><b>⚡ Productivity Boosters</b></summary>
 <br/>
 
-| Extension | Description | Link |
-|-----------|-------------|------|
-| **Auto Import** | Automatically finds and imports | [Install](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) |
-| **Path Intellisense** | Autocompletes filenames | [Install](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) |
-| **npm Intellisense** | Autocompletes npm modules | [Install](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) |
-| **Live Server** | Local server with live reload | [Install](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
-| **Turbo Console Log** | Automated log messages | [Install](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) |
+| Extension             | Description                     | Link                                                                                              |
+| --------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Auto Import**       | Automatically finds and imports | [Install](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)                |
+| **Path Intellisense** | Autocompletes filenames         | [Install](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) |
+| **npm Intellisense**  | Autocompletes npm modules       | [Install](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)  |
+| **Live Server**       | Local server with live reload   | [Install](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)              |
+| **Turbo Console Log** | Automated log messages          | [Install](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)     |
 
 </details>
 
@@ -154,11 +158,11 @@
 <summary><b>🤖 AI & GitHub Tools</b></summary>
 <br/>
 
-| Extension | Description | Link |
-|-----------|-------------|------|
-| **GitHub Copilot** | Your AI pair programmer | [Install](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) |
-| **GitHub Copilot Chat** | AI chat features | [Install](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) |
-| **GitHub Actions** | GitHub Actions workflows | [Install](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions) |
+| Extension               | Description              | Link                                                                                        |
+| ----------------------- | ------------------------ | ------------------------------------------------------------------------------------------- |
+| **GitHub Copilot**      | Your AI pair programmer  | [Install](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)               |
+| **GitHub Copilot Chat** | AI chat features         | [Install](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)          |
+| **GitHub Actions**      | GitHub Actions workflows | [Install](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions) |
 
 </details>
 
@@ -166,12 +170,12 @@
 <summary><b>🛠️ Developer Tools</b></summary>
 <br/>
 
-| Extension | Description | Link |
-|-----------|-------------|------|
+| Extension          | Description                 | Link                                                                                        |
+| ------------------ | --------------------------- | ------------------------------------------------------------------------------------------- |
 | **Thunder Client** | Lightweight Rest API Client | [Install](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) |
-| **Quokka.js** | JavaScript playground | [Install](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) |
-| **Bundle Size** | Display npm package size | [Install](https://marketplace.visualstudio.com/items?itemName=ambar.bundle-size) |
-| **DotENV** | Support for dotenv files | [Install](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) |
+| **Quokka.js**      | JavaScript playground       | [Install](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)      |
+| **Bundle Size**    | Display npm package size    | [Install](https://marketplace.visualstudio.com/items?itemName=ambar.bundle-size)            |
+| **DotENV**         | Support for dotenv files    | [Install](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)             |
 
 </details>
 
@@ -179,11 +183,11 @@
 <summary><b>🎨 Visual Enhancements</b></summary>
 <br/>
 
-| Extension | Description | Link |
-|-----------|-------------|------|
-| **Color Highlight** | Highlight web colors | [Install](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) |
-| **CodeSnap** | Beautiful code screenshots | [Install](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) |
-| **vscode-icons** | Icons for Visual Studio Code | [Install](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) |
+| Extension           | Description                  | Link                                                                                          |
+| ------------------- | ---------------------------- | --------------------------------------------------------------------------------------------- |
+| **Color Highlight** | Highlight web colors         | [Install](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)        |
+| **CodeSnap**        | Beautiful code screenshots   | [Install](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)                |
+| **vscode-icons**    | Icons for Visual Studio Code | [Install](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) |
 
 </details>
 
@@ -191,11 +195,11 @@
 <summary><b>🔧 Other Utilities</b></summary>
 <br/>
 
-| Extension | Description | Link |
-|-----------|-------------|------|
-| **HTML Tag Wrap** | Wraps code with HTML tags | [Install](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap) |
-| **DOM Code Snippets** | DOM element snippets | [Install](https://marketplace.visualstudio.com/items?itemName=yongzeyao.dom-code-snippets) |
-| **Path Autocomplete** | Path completion | [Install](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) |
+| Extension             | Description               | Link                                                                                       |
+| --------------------- | ------------------------- | ------------------------------------------------------------------------------------------ |
+| **HTML Tag Wrap**     | Wraps code with HTML tags | [Install](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap)     |
+| **DOM Code Snippets** | DOM element snippets      | [Install](https://marketplace.visualstudio.com/items?itemName=yongzeyao.dom-code-snippets) |
+| **Path Autocomplete** | Path completion           | [Install](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)  |
 
 </details>
 
@@ -253,12 +257,15 @@ cd vscode-setup
 <summary>Click to expand instructions</summary>
 
 #### Step 1: Open VS Code Settings JSON
+
 Press `Ctrl + Shift + P` (Windows/Linux) or `Cmd + Shift + P` (Mac), then type:
+
 ```
 Preferences: Open User Settings (JSON)
 ```
 
 #### Step 2: Apply Settings
+
 1. Open the `settings.json` file from this repository
 2. Copy all the contents
 3. Paste into your VS Code settings.json
@@ -276,27 +283,33 @@ Preferences: Open User Settings (JSON)
 <summary>Click to expand instructions</summary>
 
 #### Step 1: Open Snippets Configuration
+
 Press `Ctrl + Shift + P` (Windows/Linux) or `Cmd + Shift + P` (Mac), then type:
+
 ```
 Preferences: Configure User Snippets
 ```
 
 #### Step 2: Select Language
+
 Choose the language file (e.g., `javascript.json`, `javascriptreact.json`)
 
 #### Step 3: Apply Custom Snippets
+
 1. Open `ConfigureUserSnippets.json` from this repository
 2. Copy the snippet definitions
 3. Paste into your language snippet file
 4. Save the file
 
 #### Common Snippet Files:
+
 - `javascript.json` - For JavaScript files
 - `javascriptreact.json` - For React JSX files
 - `typescript.json` - For TypeScript files
 - `typescriptreact.json` - For React TypeScript files
 
 #### Usage Example:
+
 Type `rafce` and press `Tab` to expand a React Arrow Function Component!
 
 </details>
@@ -309,17 +322,21 @@ Type `rafce` and press `Tab` to expand a React Arrow Function Component!
 <summary>Click to expand instructions</summary>
 
 #### Prerequisites
+
 Check if Zsh is installed:
+
 ```bash
 zsh --version
 ```
 
 #### Step 1: Backup Current Configuration
+
 ```bash
 cp ~/.zshrc ~/.zshrc.backup
 ```
 
 #### Step 2: Apply Custom Configuration
+
 ```bash
 # Copy the zshrc file
 cp zshrc ~/.zshrc
@@ -329,11 +346,13 @@ source ~/.zshrc
 ```
 
 #### Step 3: Install Oh My Zsh (Recommended)
+
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 #### Step 4: Install Plugins
+
 ```bash
 # zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
@@ -343,12 +362,15 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 ```
 
 #### Step 5: Activate Plugins
+
 Edit `~/.zshrc` and add:
+
 ```bash
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 ```
 
 Then reload:
+
 ```bash
 source ~/.zshrc
 ```
@@ -363,6 +385,7 @@ source ~/.zshrc
 <summary>Click to expand installation commands</summary>
 
 #### For macOS/Linux:
+
 ```bash
 # My Extensions
 code --install-extension kamruj-akash.akashic
@@ -402,6 +425,7 @@ code --install-extension vscode-icons-team.vscode-icons
 ```
 
 #### For Windows PowerShell:
+
 Copy and paste all the above commands in PowerShell
 
 </details>
@@ -415,6 +439,7 @@ Copy and paste all the above commands in PowerShell
 <td width="50%">
 
 ### ⌨️ Keyboard Shortcuts
+
 - `Ctrl/Cmd + P` - Quick file navigation
 - `Ctrl/Cmd + Shift + P` - Command palette
 - `Alt + Up/Down` - Move line up/down
@@ -426,6 +451,7 @@ Copy and paste all the above commands in PowerShell
 <td width="50%">
 
 ### ⚙️ Recommended Settings
+
 ```json
 {
   "editor.formatOnSave": true,
@@ -446,6 +472,7 @@ Copy and paste all the above commands in PowerShell
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
+
 - 🐛 Report bugs
 - 💡 Suggest new features
 - 🔀 Submit pull requests
