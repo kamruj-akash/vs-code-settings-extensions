@@ -24,21 +24,41 @@
   // 🔐 Security Settings
   "security.workspace.trust.untrustedFiles": "open",
 
-  // 🖋️ Editor Appearance
+  // ✍️ Editor Appearance
   "editor.fontSize": 18,
-  "editor.fontFamily": "Fira Code, Operator Mono",
-  "editor.fontLigatures": true,
+  "editor.lineHeight": 28,
   "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.fontFamily": "SF Operator Mono",
+  "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
-        "scope": "comment",
+        "scope": [
+          "entity.name.type",
+          "storage.type",
+          "support.type",
+          "support.class",
+          "entity.name.class",
+          "entity.other.inherited-class"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      },
+      {
+        "scope": ["comment", "punctuation.definition.comment"],
         "settings": {
           "fontStyle": "italic"
         }
       }
     ]
   },
+
+  // 🧠 Better visuals
+  "editor.semanticHighlighting.enabled": true,
+  "editor.bracketPairColorization.enabled": true,
 
   // 🖱️ Cursor Customization
   "editor.cursorSmoothCaretAnimation": "on",
@@ -78,15 +98,122 @@
   "git.openRepositoryInParentFolders": "never",
   "terminal.integrated.env.osx": {},
   "console-ninja.featureSet": "Community",
-  "workbench.iconTheme": "symbols",
   "workbench.externalBrowser": "chrome",
-  "workbench.colorTheme": "Omni",
   "code-doctor.apiKey": "AIzaSyBN-T49zIJI9BrMDlU0PWdQnrCzIrS8in8",
   "smart-refactor-ai.apiKey": "AIzaSyBN-T49zIJI9BrMDlU0PWdQnrCzIrS8in8",
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.minimap.enabled": false,
   "workbench.sideBar.location": "right",
-  "workbench.activityBar.location": "top",
   "workbench.activityBar.iconClickBehavior": "focus",
-  "liveServer.settings.donotVerifyTags": true
+  "liveServer.settings.donotVerifyTags": true,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+
+  // ===================================================================
+  // 🎥 Screencast Mode Customization
+  // ===================================================================
+  "screencastMode.onlyKeyboardShortcuts": true,
+  "screencastMode.fontSize": 26,
+  "screencastMode.verticalOffset": 5,
+  "screencastMode.keyboardOptions.showKeys": true,
+  "screencastMode.keyboardOptions.showCommandNames": true,
+  "screencastMode.keyboardOptions.mouseIndicatorColor": "#FF4081",
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.bracketPairsHorizontal": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "peacock.favoriteColors": [
+    {
+      "name": "Angular Red",
+      "value": "#dd0531"
+    },
+    {
+      "name": "Azure Blue",
+      "value": "#007fff"
+    },
+    {
+      "name": "JavaScript Yellow",
+      "value": "#f9e64f"
+    },
+    {
+      "name": "Mandalorian Blue",
+      "value": "#1857a4"
+    },
+    {
+      "name": "Node Green",
+      "value": "#215732"
+    },
+    {
+      "name": "React Blue",
+      "value": "#61dafb"
+    },
+    {
+      "name": "Something Different",
+      "value": "#832561"
+    },
+    {
+      "name": "Svelte Orange",
+      "value": "#ff3d00"
+    },
+    {
+      "name": "Vue Green",
+      "value": "#42b883"
+    },
+    {
+      "name": "Server",
+      "value": "#2E6075"
+    },
+    {
+      "name": "Client-color",
+      "value": "#0F828C"
+    },
+    {
+      "name": "Client-bar-color",
+      "value": "#3E3F5B"
+    },
+    {
+      "name": "server-bar-color",
+      "value": "#8C1007"
+    },
+    {
+      "name": "Server-green",
+      "value": "#05403f"
+    }
+  ],
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true,
+    "/var/folders/kb/th4cqwvd2nb473n0mnz5r7qm0000gn/T/postman-collections-post-response.instructions.md": true,
+    "/var/folders/kb/th4cqwvd2nb473n0mnz5r7qm0000gn/T/postman-collections-pre-request.instructions.md": true,
+    "/var/folders/kb/th4cqwvd2nb473n0mnz5r7qm0000gn/T/postman-folder-post-response.instructions.md": true,
+    "/var/folders/kb/th4cqwvd2nb473n0mnz5r7qm0000gn/T/postman-folder-pre-request.instructions.md": true,
+    "/var/folders/kb/th4cqwvd2nb473n0mnz5r7qm0000gn/T/postman-http-request-post-response.instructions.md": true,
+    "/var/folders/kb/th4cqwvd2nb473n0mnz5r7qm0000gn/T/postman-http-request-pre-request.instructions.md": true
+  },
+  "cSpell.userWords": [
+    "akas",
+    "akash",
+    "farzana",
+    "formatjs",
+    "Kamruj",
+    "kamruzzaman",
+    "localematcher",
+    "mithila",
+    "oni",
+    "Swal",
+    "sweetalert"
+  ],
+  "files.autoSaveDelay": 2000,
+  "terminal.integrated.fontFamily": "MesloLGL Nerd Font",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorWidth": 2,
+  "timeline.pageSize": 40,
+  "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
+  "workbench.iconTheme": "vscode-icons",
+  "viraTheme.accent": "Teal",
+  "codeium.enableCodeLens": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vsicons.dontShowNewVersionMessage": true
 }

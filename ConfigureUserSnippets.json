@@ -1,34 +1,27 @@
-Are you spending valuable time repeatedly typing document.getElementById or .addEventListener in your web development projects?
-
-As developers, we constantly write this kind of boilerplate code, which can be repetitive and slow down our workflow. I recently found an effective solution by leveraging a powerful feature in Visual Studio Code: Custom Code Snippets.
-
-This feature allows us to create our own shortcuts for frequently used code, making our development process faster and more efficient.
-
-Here’s how you can set it up:
-
-1️⃣ In VS Code, press Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (Mac).
-2️⃣ Type Configure User Snippets in the search bar and select the javascript.json file.
-3️⃣ Copy the code below and paste it into your javascript.json file, then save it:
-
 {
-  "Get Element By ID": {
-    "prefix": "gid",
-    "body": ["document.getElementById('$1')"],
-    "description": "Select an element by its ID"
+  "Arrow Function Basic": {
+    "prefix": "fn",
+    "body": ["const ${1:functionName} = ($2) => {", "\t$3", "};"],
+    "description": "Arrow function with const"
   },
-  "Get Elements By Class Name": {
-    "prefix": "gclass",
-    "body": ["document.getElementsByClassName('$1')"],
-    "description": "Select elements by class name"
+  "Anonymous Arrow Function": {
+    "prefix": "anfn",
+    "body": ["($1) => {", "\t$2", "}"],
+    "description": "Anonymous arrow function"
   },
-  "Add Event Listener": {
-    "prefix": "ael",
-    "body": [".addEventListener('$1', function() {", "\t$2", "});"],
-    "description": "Add an event listener to an element"
+  "Arrow Function One-liner": {
+    "prefix": "fn1",
+    "body": ["const ${1:functionName} = ($2) => $3;"],
+    "description": "Arrow function one-liner"
+  },
+  "Async Arrow Function": {
+    "prefix": "afn",
+    "body": ["const ${1:functionName} = async ($2) => {", "\t$3", "};"],
+    "description": "Async arrow function"
+  },
+  "Exported Arrow Function": {
+    "prefix": "exfn",
+    "body": ["export const ${1:functionName} = ($2) => {", "\t$3", "};"],
+    "description": "Exported arrow function"
   }
 }
-
-
-After setting this up, you can simply type gid and press Enter to get document.getElementById(''), with your cursor placed directly inside the quotes.
-
-Small automations like this are incredibly effective for boosting productivity. What are your favorite VS Code tricks? Feel free to share in the comments.
