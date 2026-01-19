@@ -24,7 +24,7 @@
 </h1>
 
 <p>
-  <img src="https://img.shields.io/badge/VERSION-v0.0.3-00D9FF?style=flat-square&labelColor=6B6B6B" alt="Version" />
+  <img src="https://img.shields.io/badge/VERSION-v2.1-00D9FF?style=flat-square&labelColor=6B6B6B" alt="Version" />
   <img src="https://img.shields.io/badge/INSTALLS-119-00D9FF?style=flat-square&labelColor=6B6B6B" alt="Installs" />
   <img src="https://img.shields.io/badge/LICENSE-MIT-FFC107?style=flat-square&labelColor=6B6B6B" alt="License" />
 </p>
@@ -245,7 +245,7 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/vscode-setup.git
+git clone https://github.com/kamruj-akash/vscode-setup.git
 
 # Navigate to the directory
 cd vscode-setup
